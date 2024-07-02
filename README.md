@@ -3,7 +3,7 @@
 Here is a brief description of various types of projects during the journey of Microsoft Reskill X Code AI Internship.
 ## Projects
 
-- Sentiments Analysis Model (VADER/ROBERTA)
+- **Sentiments Analysis Model (VADER/ROBERTA)**
 This project focuses on developing a sentiment analysis model that can classify text into positive, negative, or neutral sentiments. The project involves data preprocessing, model training, and evaluation. The final model can be used for applications such as customer feedback analysis, social media monitoring, and more.
 - Data Analysis Using POWER BI
 Enhancing my data analysis skills with Power BI! I've been diving deep into data modeling, creating interactive dashboards, and mastering advanced DAX functions. Excited to apply these insights to drive data-driven decision-making.
